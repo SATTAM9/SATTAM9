@@ -37,16 +37,14 @@ soon
 </p>
 
 ## ✨
-- تحديث بيانات كل دقيقة مع **Caching/Rate-Limit** ذكي لتقليل استهلاك الـ API.
 - **i18n** كامل (ar/en …) + RTL جاهز.
 - **Auth**: ربط عبر الإيميل وInstagram، Tokens آمنة، وإدارة جلسات.
-- **أداء**: ISR/SSG، ضغط الصور، وEdge Caching.
 - **DevOps**: CI/CD مع GitHub Actions، إصدار تلقائي، وتتبّع أخطاء.
 
 ## 🧪 (Gists/Code)
-- [hooks/useClashApi.js](#) – كاش + retries + fallbacks.
-- [bot/commands/rank.ts](#) – أوامر سريعة مع inline keyboards.
-- [scripts/seed.ts](#) – تهيئة بيانات تجريبية واقعية.
+- 
+- 
+- [
 
 ## 📊  GitHub
 
@@ -57,7 +55,7 @@ soon
 ## 📌 
 - 🔥 
 - 🤖  
-- 📈 **Analytics Dashboard** – إدارة المقاييس الحية (Grafana/Prometheus).
+- 📈 **Analytics Dashboard** –
 
 ## 🤝 
 - Telegram: @yourhandle  
