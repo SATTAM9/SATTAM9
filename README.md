@@ -8,21 +8,14 @@
   <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
   <a href="https://t.me/yourhandle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram"></a>
   <a href="https://discord.gg/yourinvite"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://ibtikarya.sa"><img alt="Website" src="https://img.shields.io/badge/Website-ibtikarya.sa-0f172a?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
 
 ## 🇸🇦 نبذة سريعة
-- أبني مواقع تحليلات وترتيب (Clash/Rankings) بتحديث لحظي كل دقيقة عبر API جاهز.
-- بوتات Telegram/Discord متكاملة: تنبيهات، أوامر سريعة، ولوحات تحكم.
-- دعم متعدد اللغات، ربط حساب عبر الإيميل وInstagram، وتحسين الأداء/SEO.
+//
 
-## 🔭 أعمل عليه الآن
-- **ClashVIP Rankings Platform** – لوحات تبرّع/نشاط مباشرة + تصفية وفرز متقدّمين.
-- **Bots** – أوامر /rank و /top و /link بحالة فورية وسجلات أخطاء واضحة.
-
-## 🧰 التكديس التقني (Tech Stack)
+## 🧰  (Tech Stack)
 **Frontend:** React · Next.js · Tailwind CSS · Vite  
 **Backend:** Node.js · Express · Fastify · Prisma · PostgreSQL/Redis  
 **Infra:** Vercel · Docker · Nginx · GitHub Actions  
@@ -41,17 +34,7 @@
   <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discord&logoColor=white" />
 </p>
 
-## ✨ مميّزات رئيسية
-- تحديث بيانات كل دقيقة مع **Caching/Rate-Limit** ذكي لتقليل استهلاك الـ API.
-- **i18n** كامل (ar/en …) + RTL جاهز.
-- **Auth**: ربط عبر الإيميل وInstagram، Tokens آمنة، وإدارة جلسات.
-- **أداء**: ISR/SSG، ضغط الصور، وEdge Caching.
-- **DevOps**: CI/CD مع GitHub Actions، إصدار تلقائي، وتتبّع أخطاء.
 
-## 🧪 لقطات سريعة (Gists/Code)
-- [hooks/useClashApi.js](#) – كاش + retries + fallbacks.
-- [bot/commands/rank.ts](#) – أوامر سريعة مع inline keyboards.
-- [scripts/seed.ts](#) – تهيئة بيانات تجريبية واقعية.
 
 ## 📊 إحصائيات GitHub
 <p align="left">
@@ -63,8 +46,7 @@
 </p>
 
 ## 📌 مشاريع مختارة
-- 🔥 **ClashVIP** – منصة ترتيب/تبرعات لحظية + بوتات تكاملية.  
-- 🤖 **DonationBot** – تحسين سرعة الاستجابة + نظام Queue وRate-Limit.  
+
 - 📈 **Analytics Dashboard** – إدارة المقاييس الحية (Grafana/Prometheus).
 
 ## 🤝 تواصل
@@ -74,9 +56,3 @@
 
 ---
 
-### EN (Short)
-I build real-time Clash ranking dashboards and high-performance Telegram/Discord bots. Multilingual UX, robust caching, and CI/CD by default.  
-**Now:** ClashVIP platform + bots.  
-**Stack:** React/Next, Node/Prisma, Postgres/Redis, Vercel, Telegraf/discord.js.
-
-> ⭐ If you find my work useful, consider starring the repos!
