@@ -36,7 +36,7 @@ soon
   <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discord&logoColor=white" />
 </p>
 
-## ✨ مميّزات رئيسية
+## ✨
 - تحديث بيانات كل دقيقة مع **Caching/Rate-Limit** ذكي لتقليل استهلاك الـ API.
 - **i18n** كامل (ar/en …) + RTL جاهز.
 - **Auth**: ربط عبر الإيميل وInstagram، Tokens آمنة، وإدارة جلسات.
