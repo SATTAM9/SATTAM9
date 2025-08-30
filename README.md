@@ -1,7 +1,4 @@
 <!-- Hero -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist&size=32&duration=2800&pause=600&center=true&vCenter=true&width=900&lines=👋+أهلًا!+أنا+Sattam+%7C+Full-Stack+%26+Bot+Builder;أبني+لوحات+ترتيب+%26+بوتات+Telegram%2FDiscord;Clash+Rankings+%2F+Real-time+Analytics+%2F+Multilingual+UX" alt="Intro">
-</p>
 
 <!-- Badges -->
 <p align="center">
@@ -12,8 +9,8 @@
 
 ---
 
-## 🇸🇦 نبذة سريعة
-//
+## 🇸🇦
+soon
 
 ## 🧰  (Tech Stack)
 **Frontend:** React · Next.js · Tailwind CSS · Vite  
@@ -37,10 +34,7 @@
 
 
 ## 📊 إحصائيات GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&hide_border=true" height="150" />
-</p>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB&hide_border=true" height="150" />
 </p>
