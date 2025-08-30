@@ -6,7 +6,6 @@
   <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
   <a href="https://t.me/yourhandle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram"></a>
   <a href="https://discord.gg/yourinvite"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://ibtikarya.sa"><img alt="Website" src="https://img.shields.io/badge/Website-ibtikarya.sa-0f172a?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
